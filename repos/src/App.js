@@ -3,7 +3,7 @@ import GlobalStyle from "./styles";
 function App() {
   return (
     <>
-      <Routes />;
+      <Routes />
       <GlobalStyle />
     </>
   );
