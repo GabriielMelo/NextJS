@@ -124,6 +124,7 @@ export default function Repositorio({ match }) {
         >
           <IoChevronBackCircleSharp size={36} />
         </button>
+        <p>{page}</p>
         <button type="button" onClick={() => handlePage("next")}>
           <IoChevronForwardCircleSharp size={36} />
         </button>
